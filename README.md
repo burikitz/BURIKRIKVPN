@@ -1,0 +1,2 @@
+# BURIKRIKVPN
+updater
